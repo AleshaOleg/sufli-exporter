@@ -1,0 +1,11 @@
+{
+  "name": "sufli-exporter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:AleshaOleg/sufli-exporter.git",
+  "author": "Oleh Aloshkin <olegaleshkin@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
