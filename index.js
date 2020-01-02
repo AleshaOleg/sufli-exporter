@@ -1,5 +1,5 @@
 const fs = require('fs')
-var home = require('os').homedir();
+const home = require('os').homedir();
 const express = require('express')
 
 const app = express()
